@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 1.ipynb
+web: voila --show_tracebacks=True --port=$PORT --no-browser --enable_nbextensions=True 1.ipynb
