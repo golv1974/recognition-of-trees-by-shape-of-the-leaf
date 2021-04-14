@@ -1,4 +1,4 @@
-voila
+voila --show_tracebacks=True
 fastai>=2
 pillow<7
 packaging
